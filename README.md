@@ -9,4 +9,6 @@
 This is a course project for The Odin Project for the end of the Foundations/Flex section. When this is done I will move on to JavaScript, whew.
 
 <h2>Attribution</h2>
-So far, all photos are taken by the author.
+
+Photo by <a href="https://unsplash.com/@marcozzolo90?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Marco Grosso</a> on <a href="https://unsplash.com/photos/flamingo-flying-across-a-soft-orange-sky-yTg8tI_iy6Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    
