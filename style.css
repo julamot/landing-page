@@ -47,6 +47,7 @@ a {
 }
 
 .hero {
+    display: flex;
     height: 500px;
 }
 
@@ -73,6 +74,8 @@ a {
 .hero .right-side {
     padding: 32px;
     color: #f9faf8;
+    height: 500px;
+    width: 200px;
 }   
 
       
