@@ -165,13 +165,18 @@ blockquote footer {
 .action-text-1 {
     font-size: 24px;
     color: #f9faf8;
-    /* font-weight: 600; */
-    }
+}
 .action-text-2 {
     font-size: 18px;
     color: #e5e7eb;
     margin-top: 6px;
 }      
-.action-right {
-    /* width: 200px; */
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 60px;
+    background: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
 }
